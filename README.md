@@ -24,4 +24,4 @@ g++ -std=c++11 file_name.cpp
 
 ## Citation
 
-- Madadi Asl, M., Hajian, K., Ramezani, S., Torabi, R. & Sadeghi, M. (2026). Information, entropy and the paradox of choice: A model for understanding human choice behavior.
+- Madadi Asl, M., Hajian, K., Ramezani, S., Torabi, R. & Sadeghi, M. (2026) Information, entropy and the paradox of choice: A model for understanding human choice behavior.
