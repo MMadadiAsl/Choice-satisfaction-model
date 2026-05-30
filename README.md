@@ -6,7 +6,7 @@
 
 ## Usage
 
-- These codes reproduce data used to generate the model predictions presented in the manuscript. More specifically, ```numerical_example.cpp``` reproduces the inverted-U shaped dependency of choice satisfaction on choice set size in a numerical example of choice probabilities given by Table 2, as shown in Fig. 4, and ```analytical_example.cpp``` reproduces the corresponding choice satisfaction as a function of the optimal set size and missed choices, as shown in Figs. 5-7).
+- These codes reproduce the data used to generate the model predictions presented in the manuscript. Specifically, ```numerical_example.cpp``` replicates the inverted-U relationship between choice satisfaction and choice set size using the numerical probabilities reported in Table 2, as illustrated in Fig. 4. Meanwhile, ```analytical_example.cpp``` reproduces choice satisfaction as a function of the optimal set size and missed choices, as shown in Figs. 5–7.
 
 #### Compilation
 
