@@ -6,7 +6,7 @@
 
 ## Usage
 
-- These codes reproduce the data used to generate the model predictions presented in the manuscript. Specifically, ```numerical_example - Fig4.cpp``` replicates the inverted U-shaped relationship between satisfaction and choice set size using the numerical probabilities reported in Table 2, as illustrated in Fig. 4. ```analytical_example.cpp``` reproduces choice satisfaction as a function of the optimal set size and missed choices, as shown in Figs. 5-7. Meanwhile, ```numerical_example - Fig8A1.cpp``` and ```numerical_example - Fig8A2.cpp``` reproduce the results presented in Fig. 8A1 and A2.
+- These codes reproduce the data used to generate the model predictions presented in the manuscript. Specifically, ```numerical_example - Fig4.cpp``` replicates the inverted U-shaped relationship between satisfaction and choice set size using the numerical probabilities reported in Table 2, as illustrated in Fig. 4. ```analytical_example.cpp``` reproduces choice satisfaction as a function of the optimal set size and missed choices, as shown in Figs. 5-7. Meanwhile, ```numerical_example - Fig8A1.cpp``` and ```numerical_example - Fig8A2.cpp``` reproduce the results presented in Fig. 8A1 and A2. The ```zip``` archive contains the Gnuplot command-line scripts used to reproduce the final versions of all figures presented in the manuscript.
 
 #### Compilation
 
